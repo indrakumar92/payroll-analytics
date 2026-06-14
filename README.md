@@ -215,11 +215,6 @@ payroll-analytics-ml-project
 ├── data
 │     payroll.csv
 │
-├── outputs
-│     anomalies.csv
-│     clusters.csv
-│     predictions.csv
-│
 ├── images
 │     base_salary_distribution.png
 │     top_10_agencies_payroll.png
